@@ -1,5 +1,5 @@
-# privatebin-nginx
-Privatebin/Nginx - Compartir notas - Docker compose
+# privatebin
+Privatebin - Compartir notas - Docker compose
 
 Ver en "localhost:8200"
 
